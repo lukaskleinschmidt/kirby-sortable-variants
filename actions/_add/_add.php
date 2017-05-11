@@ -1,3 +1,5 @@
 <?php
 
-class _AddAction extends AddAction {}
+class _AddAction extends AddAction {
+
+}

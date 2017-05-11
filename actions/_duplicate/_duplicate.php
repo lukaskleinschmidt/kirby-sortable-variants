@@ -1,3 +1,5 @@
 <?php
 
-class _DuplicateAction extends DuplicateAction {}
+class _DuplicateAction extends DuplicateAction {
+
+}

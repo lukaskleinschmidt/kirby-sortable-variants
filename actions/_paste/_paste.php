@@ -1,3 +1,5 @@
 <?php
 
-class _PasteAction extends PasteAction {}
+class _PasteAction extends PasteAction {
+
+}

@@ -1,3 +1,5 @@
 <?php
 
-class VariantLayout extends BaseLayout {}
+class VariantLayout extends BaseLayout {
+
+}
